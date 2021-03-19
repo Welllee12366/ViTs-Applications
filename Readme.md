@@ -23,7 +23,10 @@ Most of the codes from this repository are **borrowed** from other authors, but 
 > * [apex](https://github.com/NVIDIA/apex)
 
 # Vision Transoformer(ViT)
+This paper show that Transformers applied directly to image patches and pre-trained on large datasets work really well on image recognition task.
 ![alt Vision Transformer](figures/vit.gif)
+Vision Transformer achieve State-of-the-Art in image recognition task with standard Transformer encoder and fixed-size patches. In order to perform classification, author use the standard approach of adding an extra learnable "classification token" to the sequence.
+![alt ViT_Experimental](figures/vit_exp.png)
 ## Pretrained Models
 ### [Available Models(Click here)](https://console.cloud.google.com/storage/vit_models/)
 * Imagenet21k pre-train models
