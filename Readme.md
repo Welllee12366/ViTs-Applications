@@ -43,4 +43,4 @@ Vision Transformer achieve State-of-the-Art in image recognition task with stand
     year={2020}
     }
 # Disclaimer
-This repository is only use for research. If it violates your rights and interests, please **submit an issue** to contact us. We will respond as soon as possible. At the same time, we also invite you to help us improve it
+This repository is only use for research. If it violates your rights and interests, please **submit an issue** to contact us. We will respond as soon as possible. At the same time, we also invite you to help us improve it!
