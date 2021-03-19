@@ -11,7 +11,7 @@ Most of the codes from this repository are **borrowed** from other authors, but 
 > * Tesla V100 with 16G/32G * n
 > * Nvidia RTX 3090 with 24G * n
 #### CUDA Envs:
-> - For Tesla:  CUDA version is 10.2 or higher\
+> - For Tesla:  CUDA version is 10.2 or higher
 > - For RTX30 Series: CUDA version is 11.0 or higher
 #### Python Version:
 > higher than 3.6 but less than 3.8
