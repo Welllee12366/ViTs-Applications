@@ -24,6 +24,14 @@ Most of the codes from this repository are **borrowed** from other authors, but 
 
 # Vision Transoformer(ViT)
 ![alt Vision Transformer](figures/vit.gif)
+## Pretrained Models
+### [Available Models(Click here)](https://console.cloud.google.com/storage/vit_models/)
+* Imagenet21k pre-train models
+    > ViT-B_16, ViT-B_32, ViT-L_16, ViT-L_32, ViT-H_14
+* Imagenet21k & Imagenet2012 fine-tuned models
+    > ViT-B_16-224, ViT-B_16, ViT-B_32, ViT-L_16-224, ViT-L_16, ViT-L_32
+* Hybrid Model(ResNet-50 & Transformer)
+    > R50-ViT-B_16
 # Citations
     @article{dosovitskiy2020,
     title={An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale},
